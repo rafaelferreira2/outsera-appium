@@ -1,0 +1,20 @@
+Capitao:
+  name: "Capitão América"
+  description: "Humano geneticamente modificado com soro do super soldado."
+  personal: "Steve Rogers"
+Thor:
+  name: "Thor"
+  description: "Deus do Trovão, príncipe herdeiro de Asgard."
+  personal: "Deus do Trovão"
+Iron:
+  name: "Homem de Ferro"
+  description: "Vingador Dourado. Gênio, bilionário, playboy, filantropo."
+  personal: "Tony Stark"
+Hulk:
+  name: "Hulk"
+  description: "Físico nuclear especializado em partículas e raios gama."
+  personal: "Bruce Banner"
+Aranha:
+  name: "Homem Aranha"
+  description: "Inventor, Fotógrafo, Vigilante e amigo da vizinhança."
+  personal: "Peter Parker"

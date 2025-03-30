@@ -1,0 +1,3 @@
+default: -p bdd -p html
+bdd: --format pretty
+html: --format html --out=logs/features_report.html

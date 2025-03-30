@@ -1,0 +1,55 @@
+login_success:
+  name: ""
+  email: "eu@papito.io"
+  password: "qaninja"
+  profile: ""
+senha_invalida:
+  name: ""
+  email: "eu@papito.io"
+  password: "123123"
+  profile: ""
+email_vazio:
+  name: "Email null"
+  email: ""
+  password: "teste123"
+  profile: "QA"
+senha_vazia:
+  name: "Senha null"
+  email: "senha@test.com"
+  password: ""
+  profile: "QA"
+todos_cadastro:
+  name: ""
+  email: ""
+  password: ""
+  profile: "QA"
+todos_login:
+  name: ""
+  email: ""
+  password: ""
+  profile: ""
+dev:
+  name: "name do DEV"
+  email: "dev@test.com"
+  password: "teste123"
+  profile: "Desenvolvedor"
+qa:
+  name: "name do QA"
+  email: "qa@test.com"
+  password: "teste123"
+  profile: "QA"
+devops:
+  name: "name do DEVOPS"
+  email: "devops@test.com"
+  password: "teste123"
+  profile: "DevOps"
+ux:
+  name: "name do UX"
+  email: "ux@test.com"
+  password: "teste123"
+  profile: "UX"
+nome_vazio:
+  name: ""
+  email: "name@test.com"
+  password: "teste123"
+  profile: "QA"

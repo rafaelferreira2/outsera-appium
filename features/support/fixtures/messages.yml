@@ -1,0 +1,22 @@
+login_success:
+  message: "Show! Suas credenciais são validas."
+todos_cadastro:
+  message: "Informe seu nome"
+todos_login:
+  message: "Por favor, informe um email bom!"
+nome_vazio:
+  message: "Informe seu nome"
+email_vazio:
+  message: "Por favor, informe um email bom!"
+senha_invalida:
+  message: "Senha inválida!"
+senha_vazia:
+  message: "Oops! Senha em branco!"
+short_click:
+  message: "Isso é um clique simples"
+long_click:
+  message: "CLIQUE LONGO OK"
+cadastro_sucesso:
+  message: "Tudo certo, recebemos seus dados!"
+long_click:
+  message: "CLIQUE LONGO OK"

@@ -1,0 +1,9 @@
+[caps]
+automationName = "UIAutomator2"
+platformName = "Android"
+deviceName = "Android Emulator"
+app = "C:\\projetos\\appium\\app\\twp.apk"
+locationContextEnabled = true
+gpsLocation = "-27.594936,-48.608233"
+locationServicesEnabled = true
+locationServicesAuthorized = true
